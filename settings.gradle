@@ -1,0 +1,2 @@
+include ':app', ':pulltorefresh_library', ':xlistview_library'
+rootProject.name='My Application'
