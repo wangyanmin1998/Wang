@@ -41,6 +41,8 @@ public class MainActivity extends BaseActivity {
         list.add(ontherFragment1);
         list.add(ontherFragment2);
         list.add(ontherFragment3);
+        list.add(ontherFragment3);
+        list.add(ontherFragment3);
         //监听
         viewPager.setAdapter(new FragmentPagerAdapter(getSupportFragmentManager()) {
             @NonNull
