@@ -80,6 +80,9 @@ public class HomeFragment extends BaseFragment {
         add.add("影视");
         add.add("视频");
         add.add("我的");
+        add.add("我的");
+        add.add("我的");
+        add.add("我的");
 
 
         viewPager.setAdapter(new FragmentPagerAdapter(getFragmentManager()) {
